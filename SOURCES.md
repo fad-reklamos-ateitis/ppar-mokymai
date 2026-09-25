@@ -15,3 +15,6 @@ Booking links use the supplied property path with tracking/session parameters re
 
 ## Photos
 Actual property photos, downloaded from observed URLs in matching accommodation listings. No generated property imagery. Sources: https://www.getaroomtonight.com/anyksciai/helsinkis.htm and https://housity.net/hotel/helsinkis/ . Full source URL mapping in assets/sources.json. No open reuse license found; production reuse rights unverified. Educational demo only.
+
+## Revision 2026-09-25
+User feedback: interior hero, unified Arial typography, no heading punctuation or numbered captions, narrative apartment overview instead of fact cells, expanded authentic gallery. Additional photos from https://gaspada.lt/accommodation/anyksciai/rest-art/5641895 ; exact observed Booking CDN URLs in assets/sources.json.
