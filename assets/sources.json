@@ -1,0 +1,25 @@
+{
+  "property": "Rest ART (formerly Helsinkis)",
+  "address": "Aušros a. 19, LT-29144 Anykščiai, Lithuania",
+  "license": "No public reuse license found; Booking CDN property-listing photographs. Obtain owner confirmation for production use.",
+  "assets": [
+    {
+      "file": "assets/garden.jpg",
+      "url": "https://cf.bstatic.com/xdata/images/hotel/max1200/261297284.jpg?k=f27fce55c83dba6a99898faa9fcf26346a7d3f75eb5479a9740a84e69483b36c&o=",
+      "caption_lt": "Sodas ir terasa prie apartamentų",
+      "source_page": "https://housity.net/hotel/helsinkis/"
+    },
+    {
+      "file": "assets/courtyard.jpg",
+      "url": "https://cf.bstatic.com/xdata/images/hotel/max1200/100804729.jpg?k=8a7c0028d209f2a7ee3ccdeefa64bbbf43bc3f404cb28be96bae78c8914420a3&o=",
+      "caption_lt": "Pastatas ir dengta lauko terasa",
+      "source_page": "https://housity.net/hotel/helsinkis/"
+    },
+    {
+      "file": "assets/bedroom.jpg",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/793613084.jpg?a=1925256&k=daf55e282cf9153e188bc3383937a51b5631ef65959f44a6d9322433f8aa6b94&o=",
+      "caption_lt": "Jaukus miegamasis su medinėmis grindimis",
+      "source_page": "https://www.getaroomtonight.com/anyksciai/helsinkis.htm"
+    }
+  ]
+}
